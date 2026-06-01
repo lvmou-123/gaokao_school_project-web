@@ -30,4 +30,8 @@
 
 ## 作者
 
-**吕某人** · [GitHub](https://github.com/lvmou-123) · [邮箱](mailto:3079490142@qq.com)
+**吕某人**
+
+GitHub：https://github.com/lvmou-123
+
+邮箱：3079490142@qq.com
