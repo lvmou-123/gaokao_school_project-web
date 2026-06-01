@@ -18,19 +18,6 @@
 | ❤ 院校收藏 | 收藏心仪院校，方便对比与决策 |
 | 📱 手机登录 | 短信验证码快速登录 |
 
-## 技术栈
-
-- **框架**：Vue 3（组合式 API + `<script setup>`）
-- **构建工具**：Vite
-- **UI 组件库**：Element Plus
-- **路由**：Vue Router 4
-- **状态管理**：Pinia
-- **HTTP 请求**：Axios
-- **类型检查**：TypeScript + vue-tsc
-- **单元测试**：Vitest
-- **E2E 测试**：Playwright
-- **代码规范**：ESLint + Oxlint
-
 ## 页面展示
 
 | 页面 | 截图 |
@@ -41,45 +28,6 @@
 | AI 助手 | ![AI助手](screenshots/fb949ba51721512432a63a2a06df64c.png) |
 | 登录页面 | ![登录页面](screenshots/image.png) |
 
-## 快速开始
+## 作者
 
-```sh
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run dev
-
-# 构建生产版本
-npm run build
-
-# 预览构建产物
-npm run preview
-```
-
-## 开发命令
-
-```sh
-# 类型检查
-npm run type-check
-
-# 单元测试
-npm run test:unit
-
-# E2E 测试（需先构建）
-npm run build
-npm run test:e2e
-
-# 代码检查
-npm run lint
-```
-
-## 后端接口同步
-
-后端接口变更后，执行以下命令拉取最新 OpenAPI 文档并重新生成 API 代码：
-
-```sh
-npm run sync:api
-```
-
-> 禁止手动修改 `src/api/api.ts` 及 `src/api/data-contracts.ts`，所有修改应通过后端 OpenAPI 文档同步。
+**吕某人** · [GitHub](https://github.com/lvmou-123) · [邮箱](mailto:3079490142@qq.com)
