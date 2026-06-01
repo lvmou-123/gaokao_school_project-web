@@ -39,7 +39,7 @@
 | 院校查询 | ![院校查询](screenshots/6ac5ff537b7fec247d9a49741596ff9.png) |
 | 专业查询 | ![专业查询](screenshots/9b3979b96fcf9a7676c0d6387dda955.png) |
 | AI 助手 | ![AI助手](screenshots/fb949ba51721512432a63a2a06df64c.png) |
-| 我的收藏 | ![我的收藏](screenshots/image.png) |
+| 登录页面 | ![登录页面](screenshots/image.png) |
 
 ## 快速开始
 
